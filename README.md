@@ -1,4 +1,5 @@
-# Hi there 👋, Achyuth here,
+<h1>Hi 👋, I'm Achyuth Jois M</h1>
+<h3>A Student from India</h3>
 
 <img height="250" src='https://github.com/achyuthjoism/achyuthjoism/blob/main/circle-cropped.png'
 />
@@ -12,3 +13,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=achyuthjoism)](https://github.com/achyuthjoism/github-readme-stats)
 
+### Check Out My Github Trophy:-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achyuthjoism" alt="achyuthjoism" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/achyuthjoism" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="achyuthjoism" height="30" width="40" /></a>
+</p>
