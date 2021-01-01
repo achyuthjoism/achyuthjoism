@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Achyuth Jois M</h1>
-<h3 align="center">A Student from India</h3>
+<h1>Hi 👋, I'm Achyuth Jois M</h1>
+<h3>A Student from India</h3>
 
+<img height="250" src='https://github.com/achyuthjoism/achyuthjoism/blob/main/0e2904d4-fe57-4890-88b4-8284cfd0fd21.jpg'
+/>
 
 ## My Skills :-
 
