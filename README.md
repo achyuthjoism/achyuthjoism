@@ -1,10 +1,8 @@
-<p align="center"><img height="250" src='https://github.com/achyuthjoism/achyuthjoism/blob/main/circle-cropped.png'
-/></p>
-
 <h1 align="center">Hi 👋, I'm Achyuth Jois M</h1>
 <h3 align="center">A Student from India</h3>
 
-
+<p align="center"><img height="250" src='https://github.com/achyuthjoism/achyuthjoism/blob/main/circle-cropped.png'
+/></p>
 
 ## My Skills :-
 
