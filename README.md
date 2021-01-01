@@ -1,6 +1,6 @@
 # Hi there 👋, Achyuth here,
 
-<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Happy&eyebrowType=RaisedExcited&mouthType=Smile&skinColor=Light'
+<img height="250" src='https://github.com/achyuthjoism/achyuthjoism/blob/main/circle-cropped.png'
 />
 
 ### My Skills,
