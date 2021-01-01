@@ -1,9 +1,7 @@
-# About Achyuth Jois M :-
+# Hi there 👋, Achyuth here,
 
 <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Happy&eyebrowType=RaisedExcited&mouthType=Smile&skinColor=Light'
 />
-
-## Hi there 👋, Achyuth here,
 
 ### My Skills,
 
