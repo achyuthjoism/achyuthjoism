@@ -1,16 +1,16 @@
-### Hi there 👋
+# About Achyuth Jois M :-
 
-<!--
-**achyuthjoism/achyuthjoism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Happy&eyebrowType=RaisedExcited&mouthType=Smile&skinColor=Light'
+/>
 
-Here are some ideas to get you started:
+## Hi there 👋, Achyuth here,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills,
+
+* ⚛ React
+* 📱 Java, React Native
+* 💻 HTML, CSS, JS
+
+##Check Out My Stats:-
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=achyuthjoism)](https://github.com/achyuthjoism/github-readme-stats)
